@@ -18,7 +18,7 @@
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    background-color: #5D6DBE;
+    <!-- background-color: #5D6DBE; -->
   }
 .headQuiz{
   width: 600px;
